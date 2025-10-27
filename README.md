@@ -4,7 +4,7 @@
 [![Release](https://img.shields.io/github/v/release/aMathyzin/Minimal-Optimizer-2.0?style=for-the-badge)](https://github.com/aMathyzin/Minimal-Optimizer-2.0/releases)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20.NET%208.0-dark?style=for-the-badge)](#requirements)
-[![Stars](https://img.shields.io/github/stars/aMathyzin/Minimal-Optimizer-2.0?style=social)](https://github.com/aMathyzin/Minimal-Optimizer-2.0)
+[![Stars](https://img.shields.io/github/stars/aMathyzin/Minimal-Optimizer-2.0?style=social)](https://github.com/aMathyzinn/Minimal-Optimizer-2.0)
 
 # Minimal Optimizer 2.0
 

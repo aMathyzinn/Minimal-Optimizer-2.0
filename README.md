@@ -142,8 +142,6 @@ Este projeto é licenciado sob a **GPL-3.0**. Veja o arquivo `LICENSE` para deta
 
 ---
 
-## CTA
-
 - **Baixe a última release**: [Releases](https://github.com/aMathyzin/Minimal-Optimizer-2.0/releases)
 - **Experimente agora**: compile localmente e teste o modo portátil
 - **Gostou?** Dê uma estrela ⭐ e compartilhe
